@@ -1,0 +1,15 @@
+{
+  "name": "biographyprojectnodejs",
+  "version": "1.0.0",
+  "description": "Introductory Project for NodeJS just to get some initial practice before my real project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Baddam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
